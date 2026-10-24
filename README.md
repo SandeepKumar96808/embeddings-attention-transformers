@@ -2,7 +2,6 @@
 
 A visual, beginner-friendly lesson that starts from zero (how text becomes numbers) and builds up to a full Transformer block, with matrices, heatmaps and small runnable NumPy examples.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/<your-username>/embeddings-attention-transformers/blob/main/Embeddings_Attention_Transformers.ipynb)
 
 ## What it covers
 
